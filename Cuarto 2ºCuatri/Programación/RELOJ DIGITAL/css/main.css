@@ -1,0 +1,36 @@
+html{
+    width: 100%;
+    height: 100%;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.display{
+    width: 1000px;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(243, 70, 70);
+    border-radius: 60px;
+}
+.dhoras{
+    padding: 1rem;
+
+}
+.dminutos{
+    padding: 1rem;
+
+}
+.dsegundos{
+    padding: 1rem;
+    /*background-color: rgb(243, 70, 70);*/
+}
+.azul{
+    background-color: aqua;
+}
