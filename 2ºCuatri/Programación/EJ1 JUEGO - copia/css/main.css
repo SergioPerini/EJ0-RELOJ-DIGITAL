@@ -1,0 +1,22 @@
+#caja{
+    background-color: #ccc;
+    width: 100px;
+    height: 100px;
+    right: 0;
+    position: absolute;
+}
+#cont{
+    background-color: rgb(255, 61, 61);
+    width: 100px;
+    height: 100px;
+    left: 0;
+    position: absolute;
+}
+
+.ui-selected{
+    background-color: #ccc;
+}
+#lista{
+
+    bottom: 0; 
+}

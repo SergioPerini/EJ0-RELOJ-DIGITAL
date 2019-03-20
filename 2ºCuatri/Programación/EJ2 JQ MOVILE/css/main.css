@@ -1,0 +1,31 @@
+#caja{
+    background-color: #ccc;
+    width: 100px;
+    height: 100px;
+    right: 0;
+    position: absolute;
+}
+#cont{
+    background-color: rgb(255, 61, 61);
+    width: 100px;
+    height: 100px;
+    left: 0;
+    position: absolute;
+}
+.amarillo{
+    background-color: rgb(255, 61, 61);
+    width: 100px;
+    height: 100px;
+}
+.amarillo2{
+    background-color: rgb(250, 144, 144);
+    width: 100px;
+    height: 100px;
+}
+.ui-selected{
+    background-color: #ccc;
+}
+#lista{
+    position: absolute;
+    bottom: 0; 
+}

@@ -1,0 +1,40 @@
+html{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.guia{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(189, 250, 154);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.guia_palabra{
+    display: none;
+}
+#uno{
+    display: block;
+}
+.usuario{
+    height: 40px;
+    width: 40px;
+    border-radius: 2rem;
+    background-color: #ccc;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.ordenador{
+    height: 20px;
+    width: 20px;
+    border-radius: 1.5rem;
+    background-color: rgba(255, 85, 85, 0.8);
+    position: absolute;
+    top: 0;
+}
